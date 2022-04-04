@@ -1,0 +1,72 @@
+Product Owner:
+https://prnt.sc/bCQFwTY7hESD
+
+Scrum Master:
+https://prnt.sc/I6WBOGzyaRzE
+
+Time de Desenvolvimento (DEV):
+https://prnt.sc/brV8oGb2YgAo
+
+Escrevendo uma estória:
+https://prnt.sc/lP3xwmeFtWy_
+
+Objetivo Épico = Objetivo menor
+
+Estória é um conjunto de tarefas, Épico é um conjunto de estórias, Tarefa é um conjunto de atividades
+
+Critério de Aceite:
+https://prnt.sc/F9-2v7uy9SEz
+
+Transformação digital é uma mudança de mentalidade que as empresas passam com o objetivo de se tornarem mais modernas e acompanharem os avanços tecnológicos que não param de surgir.
+
+Cliente/ Stakeholder
+https://prnt.sc/HCXwJttG-5pw
+
+1- Quem é o responsável por priorizar o Backlog?
+R: PO
+
+2- Quem é o responsável por garantir que o time utilize a melhor forma o SCRUM?
+R: Scrum Master
+
+3- Quem é o responsável por desenhar, construir e entregar o software funcionando?
+R: Time DEV
+
+4- Qual característica melhor descreve uma atividade do PO?
+R: Entende a demanda e extrai o maior valor possível
+
+5- Qual o papel do PO dentro do TIME?
+R: Ajuda o time entender a demanda e tira as dúvidas ao longo da Sprint
+
+6- Qual método é mais indicado para definir o Escopo do projeto?
+R: Entender qual o ganho antes de definir o escopo
+
+7- O que compõe um Product Backlog?
+R: Épico e Estória
+
+8- Qual a importância de mapear Riscos Positivos?
+R: Poder priorizar outros itens no backlog
+
+9- Qual característica melhor descreve uma estória?
+R: Uma tarefa descrita em nível de negócio
+
+10- O que é uma Tarefa?
+R: Um conjunto de atividades que o time de DEV deve desempenhar para entregar a estória
+
+11- O que é um Critério de aceite?
+R: É uma lista de critérios que para que a estória atenda aos requisitos do cliente
+
+12- O que é Planning Poker?
+R: Uma atividade de mensuração do esforço e complexidade das tarefas ou estórias 
+
+13- Quem tem participação obrigatória na Daily?
+R: O time de DEV apenas
+
+14- Quem tem participação obrigatória na Retro?
+R: O time de DEV e o SM
+
+15- Em que momento acontece o Refinamento?
+R: O refinamento acontece um passo antes da Planning. 
+
+16- Qual o principal objetivo do Review?
+R: Verificar se a demanda agrega valor ao negócio
+

@@ -1,0 +1,28 @@
+dir 		- Listar os repositórios 
+cd 		- Ir entrar no diretório (Com .. ele volta)
+mkdir		- Criar diretório
+del 		- Deletar o conteúdo dentro do diretório
+rmdir		- Deletar o  diretório
+cls 		- Limpar o conteúdo do cmd
+openssl 	- Serve para pegar o código de algum arquivo ".txt" - openssl sha1 texto.txt
+echo > 	- Criar arquivo 
+git status	- Para ver o status dos arquivos git
+git commit -m "" - Para comitar o arquivo e conseguir adicionar ele no repositório
+git add *	- Transforma todos os arquivos em unstage para mandar p/ commit
+mv		- Mover um arquivo para uma pasta. Ex: mv pizza.md ./receitas/
+git init	- Iniciar o git
+git push origin master - Empurrar os arquivos para o GitHub
+git clone "url"	- Clona arquivos do GitHub
+
+Importante: Ciclo de vida dos arquivos no Git e Introdução ao GitHub (Dio.me)
+
+Passar arquivos para o GitHub(Precisa ter configurado sua máquina antes)
+1° Abrir o GitBash na pasta que você quer mandar
+2° Digitar "git init" no terminal, para transformar aquela pasta em uma pasta "Git"
+3° Criar repositório no GitHub
+4° Pegar a URL do repositório
+5° Ir no Terminal e digitar "git remote add origin "link"" (Sem aspas) para ligar sua pasta ao repositório
+6° E digite "git push origin máster" para empurrar os arquivos para o repositório
+7° O "git status" funciona para ver os status dos arquivos, se precisar fazer algo, vai aparecer no terminal
+8° Para atualizar os status e os arquivos serem commitados, digite "git add *" e após isso, será possível commitar
+9° Para commitar, basta digitar "git commit -m "digite oque você alterou""
